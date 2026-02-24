@@ -1,0 +1,12 @@
+{
+  "name": "lifetrack",
+  "private": true,
+  "description": "LifeTrack – Habit & Todo Tracker (demo runs with no config)",
+  "scripts": {
+    "demo": "node scripts/demo.js",
+    "start:server": "cd server && node index.js",
+    "start:client": "cd client && npm run dev",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
+  }
+}
