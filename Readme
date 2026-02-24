@@ -1,2 +1,79 @@
-Readme
+# 🚀 SJSU Deep Learning: Assignment 2 - Advanced AI Coding Tools
 
+Welcome to my submission for **Assignment 2: Learn Latest AI Coding Tools**. This repository demonstrates the practical application of cutting-edge AI tools (Gemini API, Google Colab, Cursor, Hugging Face) to build multimodal AI notebooks, full-stack web apps, mobile apps, and deep learning classifiers.
+
+---
+
+## 📂 Project Structure & Deliverables
+
+| Task | Description | 🎥 Video Demo | 💻 Code / Link |
+|---|---|---|---|
+| **1. Gemini Multimodal** | Image gen, analysis & chat using Gemini API | [Watch Video 🌌](https://www.loom.com/share/e87b404c2ceb45e995826fb958722267) | [Colab Notebook](https://colab.research.google.com/drive/19vDfbEgEKZ8ZsFPtHvH9xYjckOYUieOc?usp=drive_link) |
+| **2. LifeTrack Web App** | React + Tailwind full-stack habit tracker | [Watch Video 🚀](https://www.loom.com/share/8e581df2c9494a838e47c152b2a70413) | [Switch to Branch: `Web_App`](https://github.com/gowripreetham/SJSU_Deep_Learning_Assignment-2-learn-latest-ai-coding-tools/tree/Web_App) |
+| **3. MNIST Classifier** | CNN model with Keras & deep metrics | [Watch Video 📊](https://www.loom.com/share/b3aac9cd44294229b213acef709b882f) | [Colab Notebook](https://colab.research.google.com/drive/10GdcnC6rzD_QhG6TjqczeiaX9NT0NtJp?usp=drive_link) |
+| **4. FitPulse Mobile App** | Cross-platform Flutter fitness app | [Watch Video 🏃‍♂️](https://www.loom.com/share/154612d7eecb4600b89aa8373ef590b5) | [Switch to Branch: `Flutter_App`](https://github.com/gowripreetham/SJSU_Deep_Learning_Assignment-2-learn-latest-ai-coding-tools/tree/Flutter_App) |
+
+**📁 Google Drive (All Artifacts):** [Access Drive Folder](https://drive.google.com/drive/folders/15eG7KxUuo745jGjr3RniyFlecdo6JfXk?usp=sharing)
+
+---
+
+## 🧪 Task 1: Gemini Multimodal Capabilities
+A comprehensive Colab notebook exploring the **Gemini 2.0 Flash** and **Hugging Face** APIs.
+
+### Key Features
+- **Text-to-Image Generation:** Used Stable Diffusion XL (via Hugging Face) to generate a "bioluminescent forest with an astronaut".
+- **Image Analysis:** Analyzed NASA's *Pillars of Creation* using Gemini 2.0 Flash Lite to extract scientific insights.
+- **Multi-Turn Chat:** Implemented a stateful philosophical debate on AI consciousness using Gemini 2.0 Flash Lite.
+- **Tech Stack:** Python, Google GenAI SDK, Pillow, Matplotlib.
+
+---
+
+## 💻 Task 2: LifeTrack Web App
+A modern, responsive productivity dashboard built with **React** and **Tailwind CSS**.
+
+### Key Features
+- **Todo List:** Add, edit, and delete tasks with strikethrough animations.
+- **Habit Tracker:** Interactive toggle buttons for daily habits (Water, Exercise).
+- **Progress Visualization:** Real-time progress bar updating as tasks are completed.
+- **Tech Stack:** React (Vite), Tailwind CSS, LocalStorage, Lucide Icons.
+- **Code Location:** 📍 [Web_App Branch](https://github.com/gowripreetham/SJSU_Deep_Learning_Assignment-2-learn-latest-ai-coding-tools/tree/Web_App)
+
+---
+
+## 📊 Task 3: MNIST CNN Classifier
+A robust Deep Learning model built from scratch using **TensorFlow/Keras**.
+
+### Key Features
+- **Architecture:** 2-Block CNN with Conv2D, BatchNorm, MaxPooling, and Dropout.
+- **Performance:** Achieved **>99% Test Accuracy**.
+- **Metrics Visualization:** 
+  - Training vs. Validation Loss/Accuracy curves.
+  - Confusion Matrix heatmap.
+  - Sample predictions with confidence scores.
+- **Tech Stack:** Python, TensorFlow, Keras, Seaborn, Matplotlib.
+
+---
+
+## 📱 Task 4: FitPulse Mobile App
+A cross-platform mobile prototype built with **Flutter**.
+
+### Key Features
+- **Dashboard:** Real-time summary cards for Steps and Calories.
+- **Hydration Tracker:** Interactive water glass counter with state management.
+- **Activity Log:** Scrollable list of recent workouts.
+- **UI/UX:** Material 3 Design with deep indigo theme and smooth transitions.
+- **Tech Stack:** Flutter (Dart), Material Design 3.
+- **Code Location:** 📍 [Flutter_App Branch](https://github.com/gowripreetham/SJSU_Deep_Learning_Assignment-2-learn-latest-ai-coding-tools/tree/Flutter_App)
+
+---
+
+## 🛠️ Tools & Credits
+- **AI Assistance:** Perplexity AI, Claude 3.5 Sonnet, Cursor Composer.
+- **Frameworks:** TensorFlow, React, Flutter, Google GenAI SDK.
+- **Assignment:** SJSU Deep Learning (Spring 2026).
+
+---
+
+### 📬 Contact
+**Venkata Rama Gowri Preetam Gunisetty**  
+[GitHub Profile](https://github.com/gowripreetham)
